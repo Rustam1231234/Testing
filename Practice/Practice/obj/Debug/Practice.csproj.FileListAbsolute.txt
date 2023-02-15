@@ -20,3 +20,14 @@ C:\Users\krolik\Documents\GitHub\Testing\Practice\Practice\obj\Debug\Practice.cs
 C:\Users\krolik\Documents\GitHub\Testing\Practice\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
 C:\Users\krolik\Documents\GitHub\Testing\Practice\Practice\obj\Debug\Practice.exe
 C:\Users\krolik\Documents\GitHub\Testing\Practice\Practice\obj\Debug\Practice.pdb
+C:\moya\Testing\Practice\Practice\bin\Debug\Practice.exe.config
+C:\moya\Testing\Practice\Practice\bin\Debug\Practice.exe
+C:\moya\Testing\Practice\Practice\bin\Debug\Practice.pdb
+C:\moya\Testing\Practice\Practice\obj\Debug\Practice.csproj.AssemblyReference.cache
+C:\moya\Testing\Practice\Practice\obj\Debug\Practice.csproj.SuggestedBindingRedirects.cache
+C:\moya\Testing\Practice\Practice\obj\Debug\Practice.Form1.resources
+C:\moya\Testing\Practice\Practice\obj\Debug\Practice.Properties.Resources.resources
+C:\moya\Testing\Practice\Practice\obj\Debug\Practice.csproj.GenerateResource.cache
+C:\moya\Testing\Practice\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
+C:\moya\Testing\Practice\Practice\obj\Debug\Practice.exe
+C:\moya\Testing\Practice\Practice\obj\Debug\Practice.pdb
