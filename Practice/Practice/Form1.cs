@@ -24,7 +24,7 @@ namespace Practice
 
         private void button2_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("14343");
+            MessageBox.Show("skjd;jglhsi");
         }
     }
 }
