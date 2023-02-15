@@ -9,3 +9,14 @@ C:\Users\krolik\source\repos\prokopev\Practice\Practice\obj\Debug\Practice.cspro
 C:\Users\krolik\source\repos\prokopev\Practice\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
 C:\Users\krolik\source\repos\prokopev\Practice\Practice\obj\Debug\Practice.exe
 C:\Users\krolik\source\repos\prokopev\Practice\Practice\obj\Debug\Practice.pdb
+C:\Users\krolik\Documents\GitHub\Testing\Practice\Practice\bin\Debug\Practice.exe.config
+C:\Users\krolik\Documents\GitHub\Testing\Practice\Practice\bin\Debug\Practice.exe
+C:\Users\krolik\Documents\GitHub\Testing\Practice\Practice\bin\Debug\Practice.pdb
+C:\Users\krolik\Documents\GitHub\Testing\Practice\Practice\obj\Debug\Practice.csproj.AssemblyReference.cache
+C:\Users\krolik\Documents\GitHub\Testing\Practice\Practice\obj\Debug\Practice.csproj.SuggestedBindingRedirects.cache
+C:\Users\krolik\Documents\GitHub\Testing\Practice\Practice\obj\Debug\Practice.Form1.resources
+C:\Users\krolik\Documents\GitHub\Testing\Practice\Practice\obj\Debug\Practice.Properties.Resources.resources
+C:\Users\krolik\Documents\GitHub\Testing\Practice\Practice\obj\Debug\Practice.csproj.GenerateResource.cache
+C:\Users\krolik\Documents\GitHub\Testing\Practice\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
+C:\Users\krolik\Documents\GitHub\Testing\Practice\Practice\obj\Debug\Practice.exe
+C:\Users\krolik\Documents\GitHub\Testing\Practice\Practice\obj\Debug\Practice.pdb
