@@ -11,5 +11,6 @@ namespace Practice
         public string name { get; set; }
         public string description { get; set; } 
         public double price { get; set; }
+        public double age { get; set; }
     }
 }

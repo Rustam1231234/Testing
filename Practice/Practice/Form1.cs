@@ -28,6 +28,7 @@ namespace Practice
             yabloko.description = "norm";
             yabloko.price = 50;
             yabloko.name = "yabloko";
+            yabloko.age = 2;
             propertyGrid1.SelectedObject = yabloko;
         }
     }
