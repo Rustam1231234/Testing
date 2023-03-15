@@ -18,11 +18,6 @@ namespace Practice
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
-        {
-            MessageBox.Show(yabloko.description);
-        }
-
         private void button2_Click(object sender, EventArgs e)
         {
             yabloko.description = "norm";
